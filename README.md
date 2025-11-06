@@ -29,3 +29,8 @@ ffmpeg -i output-16-8khz.wav -ar 8000 -ac 1 -c:a libopencore_amrnb output-16-8kh
 ffmpeg -i output-16-8khz.wav -ar 8000 -c:a libopus -b:a 12k output-opus.opus 
 
 ffmpeg -i output-opus.opus -ar 8k output-opus.wav 
+
+
+ffmpeg -i output-16-8khz.wav -c:a aac -b:a 12k output-aac.aac
+
+
