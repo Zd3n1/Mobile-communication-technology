@@ -33,4 +33,11 @@ ffmpeg -i output-opus.opus -ar 8k output-opus.wav
 
 ffmpeg -i output-16-8khz.wav -c:a aac -b:a 12k output-aac.aac
 
+//NISQA command folder
 
+python run_predict.py --mode predict_dir --pretrained_model weights/nisqa.tar --data_dir /Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication --num_workers 0 --bs 10 --output_dir /Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication/NISQA results
+
+
+//NISQA single file
+
+python run_predict.py --mode predict_file --pretrained_model weights/nisqa.tar --deg /Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication/output-16-8khz.wav --output_dir /Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication/NISQA results
