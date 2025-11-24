@@ -2,6 +2,8 @@ env start
 
 conda activate MCS_25   
 
+conda activate NISQA - new one
+
 info
 
 ffprobe amused_1-15_0001.wav
