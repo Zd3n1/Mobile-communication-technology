@@ -1,0 +1,126 @@
+category,codec_type,filename,path,codec_name,codec_long_name,sample_rate,channels,channel_layout,bit_rate,bits_per_sample,duration,size,format_name
+source,original,cz-0194.wav,source/cz-0194.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.276875,419498,wav
+source,original,cz-364_0203.wav,source/cz-364_0203.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.881688,496914,wav
+source,original,cz-364_0212.wav,source/cz-364_0212.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,6.019438,770546,wav
+source,original,cz-364_0221.wav,source/cz-364_0221.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.327188,425938,wav
+source,original,cz-364_0230.wav,source/cz-364_0230.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.119188,399314,wav
+source,original,cz-364_0239.wav,source/cz-364_0239.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,6.127250,784346,wav
+source,original,cz-364_0248.wav,source/cz-364_0248.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,2.893125,370378,wav
+source,original,cz-364_0257.wav,source/cz-364_0257.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.327188,425938,wav
+source,original,cz-364_0266.wav,source/cz-364_0266.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.116000,526906,wav
+source,original,cz-364_0275.wav,source/cz-364_0275.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.841000,619706,wav
+source,original,cz-364_0284.wav,source/cz-364_0284.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.637500,593658,wav
+source,original,cz-364_0293.wav,source/cz-364_0293.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.489938,446770,wav
+source,original,cz-364_0302.wav,source/cz-364_0302.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,6.030500,771962,wav
+source,original,cz-364_0311.wav,source/cz-364_0311.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.049938,390450,wav
+source,original,cz-364_0320.wav,source/cz-364_0320.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.391000,562106,wav
+source,original,cz-364_0329.wav,source/cz-364_0329.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,2.841938,363826,wav
+source,original,cz-364_0338.wav,source/cz-364_0338.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.600000,460858,wav
+source,original,cz-364_0348.wav,source/cz-364_0348.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.127250,400346,wav
+source,original,cz-364_0357.wav,source/cz-364_0357.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.944438,632946,wav
+source,original,cz-392_0366.wav,source/cz-392_0366.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,5.670938,725938,wav
+source,original,cz-392_0375.wav,source/cz-392_0375.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,5.748625,735882,wav
+source,original,cz-392_0384.wav,source/cz-392_0384.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.574375,457578,wav
+source,original,cz-448_0421.wav,source/cz-448_0421.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,3.567813,456738,wav
+source,original,cz-448_0430.wav,source/cz-448_0430.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,6.175250,790490,wav
+source,original,cz-448_0440.wav,source/cz-448_0440.wav,pcm_f64le,PCM 64-bit floating point little-endian,16000,1,N/A,1024000,64,4.707875,602666,wav
+encoded,amr,cz-0194_amr.wav,encoded/amr/cz-0194_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.283125,5372,wav
+encoded,amr,cz-364_0203_amr.wav,encoded/amr/cz-364_0203_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.888000,6332,wav
+encoded,amr,cz-364_0212_amr.wav,encoded/amr/cz-364_0212_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,6.025750,9756,wav
+encoded,amr,cz-364_0221_amr.wav,encoded/amr/cz-364_0221_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.333500,5436,wav
+encoded,amr,cz-364_0230_amr.wav,encoded/amr/cz-364_0230_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.125500,5116,wav
+encoded,amr,cz-364_0239_amr.wav,encoded/amr/cz-364_0239_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,6.133500,9916,wav
+encoded,amr,cz-364_0248_amr.wav,encoded/amr/cz-364_0248_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,2.899375,4732,wav
+encoded,amr,cz-364_0257_amr.wav,encoded/amr/cz-364_0257_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.333500,5436,wav
+encoded,amr,cz-364_0266_amr.wav,encoded/amr/cz-364_0266_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.122250,6716,wav
+encoded,amr,cz-364_0275_amr.wav,encoded/amr/cz-364_0275_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.847250,7868,wav
+encoded,amr,cz-364_0284_amr.wav,encoded/amr/cz-364_0284_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.643750,7548,wav
+encoded,amr,cz-364_0293_amr.wav,encoded/amr/cz-364_0293_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.496250,5692,wav
+encoded,amr,cz-364_0302_amr.wav,encoded/amr/cz-364_0302_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,6.036750,9756,wav
+encoded,amr,cz-364_0311_amr.wav,encoded/amr/cz-364_0311_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.056250,4988,wav
+encoded,amr,cz-364_0320_amr.wav,encoded/amr/cz-364_0320_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.397250,7132,wav
+encoded,amr,cz-364_0329_amr.wav,encoded/amr/cz-364_0329_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,2.848250,4668,wav
+encoded,amr,cz-364_0338_amr.wav,encoded/amr/cz-364_0338_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.606250,5884,wav
+encoded,amr,cz-364_0348_amr.wav,encoded/amr/cz-364_0348_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.133500,5116,wav
+encoded,amr,cz-364_0357_amr.wav,encoded/amr/cz-364_0357_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.950750,8028,wav
+encoded,amr,cz-392_0366_amr.wav,encoded/amr/cz-392_0366_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,5.677250,9180,wav
+encoded,amr,cz-392_0375_amr.wav,encoded/amr/cz-392_0375_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,5.754875,9308,wav
+encoded,amr,cz-392_0384_amr.wav,encoded/amr/cz-392_0384_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.580625,5852,wav
+encoded,amr,cz-448_0421_amr.wav,encoded/amr/cz-448_0421_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,3.574125,5820,wav
+encoded,amr,cz-448_0430_amr.wav,encoded/amr/cz-448_0430_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,6.181500,10012,wav
+encoded,amr,cz-448_0440_amr.wav,encoded/amr/cz-448_0440_amr.wav,amr_nb,AMR-NB (Adaptive Multi-Rate NarrowBand),8000,1,N/A,9600,0,4.714125,7644,wav
+encoded,opus,cz-0194_opus.wav,encoded/opus/cz-0194_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.276875,52508,wav
+encoded,opus,cz-364_0203_opus.wav,encoded/opus/cz-364_0203_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.881750,62186,wav
+encoded,opus,cz-364_0212_opus.wav,encoded/opus/cz-364_0212_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.019500,96390,wav
+encoded,opus,cz-364_0221_opus.wav,encoded/opus/cz-364_0221_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.327250,53314,wav
+encoded,opus,cz-364_0230_opus.wav,encoded/opus/cz-364_0230_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.119250,49986,wav
+encoded,opus,cz-364_0239_opus.wav,encoded/opus/cz-364_0239_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.127250,98114,wav
+encoded,opus,cz-364_0248_opus.wav,encoded/opus/cz-364_0248_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,2.892750,46362,wav
+encoded,opus,cz-364_0257_opus.wav,encoded/opus/cz-364_0257_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.327250,53314,wav
+encoded,opus,cz-364_0266_opus.wav,encoded/opus/cz-364_0266_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.116000,65934,wav
+encoded,opus,cz-364_0275_opus.wav,encoded/opus/cz-364_0275_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.841000,77534,wav
+encoded,opus,cz-364_0284_opus.wav,encoded/opus/cz-364_0284_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.637500,74278,wav
+encoded,opus,cz-364_0293_opus.wav,encoded/opus/cz-364_0293_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.490000,55918,wav
+encoded,opus,cz-364_0302_opus.wav,encoded/opus/cz-364_0302_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.030500,96566,wav
+encoded,opus,cz-364_0311_opus.wav,encoded/opus/cz-364_0311_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.050000,48878,wav
+encoded,opus,cz-364_0320_opus.wav,encoded/opus/cz-364_0320_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.391000,70334,wav
+encoded,opus,cz-364_0329_opus.wav,encoded/opus/cz-364_0329_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,2.842000,45550,wav
+encoded,opus,cz-364_0338_opus.wav,encoded/opus/cz-364_0338_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.600000,57678,wav
+encoded,opus,cz-364_0348_opus.wav,encoded/opus/cz-364_0348_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.127250,50114,wav
+encoded,opus,cz-364_0357_opus.wav,encoded/opus/cz-364_0357_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.944500,79190,wav
+encoded,opus,cz-392_0366_opus.wav,encoded/opus/cz-392_0366_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,5.671000,90814,wav
+encoded,opus,cz-392_0375_opus.wav,encoded/opus/cz-392_0375_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,5.748625,92056,wav
+encoded,opus,cz-392_0384_opus.wav,encoded/opus/cz-392_0384_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.574375,57268,wav
+encoded,opus,cz-448_0421_opus.wav,encoded/opus/cz-448_0421_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.567875,57164,wav
+encoded,opus,cz-448_0430_opus.wav,encoded/opus/cz-448_0430_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.175250,98882,wav
+encoded,opus,cz-448_0440_opus.wav,encoded/opus/cz-448_0440_opus.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.707875,75404,wav
+encoded,aac,cz-0194_aac.wav,encoded/aac/cz-0194_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.328000,53326,wav
+encoded,aac,cz-364_0203_aac.wav,encoded/aac/cz-364_0203_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.968000,63566,wav
+encoded,aac,cz-364_0212_aac.wav,encoded/aac/cz-364_0212_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.144000,98382,wav
+encoded,aac,cz-364_0221_aac.wav,encoded/aac/cz-364_0221_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.328000,53326,wav
+encoded,aac,cz-364_0230_aac.wav,encoded/aac/cz-364_0230_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.200000,51278,wav
+encoded,aac,cz-364_0239_aac.wav,encoded/aac/cz-364_0239_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.144000,98382,wav
+encoded,aac,cz-364_0248_aac.wav,encoded/aac/cz-364_0248_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,2.944000,47182,wav
+encoded,aac,cz-364_0257_aac.wav,encoded/aac/cz-364_0257_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.328000,53326,wav
+encoded,aac,cz-364_0266_aac.wav,encoded/aac/cz-364_0266_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.224000,67662,wav
+encoded,aac,cz-364_0275_aac.wav,encoded/aac/cz-364_0275_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.864000,77902,wav
+encoded,aac,cz-364_0284_aac.wav,encoded/aac/cz-364_0284_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.736000,75854,wav
+encoded,aac,cz-364_0293_aac.wav,encoded/aac/cz-364_0293_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.584000,57422,wav
+encoded,aac,cz-364_0302_aac.wav,encoded/aac/cz-364_0302_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.144000,98382,wav
+encoded,aac,cz-364_0311_aac.wav,encoded/aac/cz-364_0311_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.072000,49230,wav
+encoded,aac,cz-364_0320_aac.wav,encoded/aac/cz-364_0320_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.480000,71758,wav
+encoded,aac,cz-364_0329_aac.wav,encoded/aac/cz-364_0329_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,2.944000,47182,wav
+encoded,aac,cz-364_0338_aac.wav,encoded/aac/cz-364_0338_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.712000,59470,wav
+encoded,aac,cz-364_0348_aac.wav,encoded/aac/cz-364_0348_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.200000,51278,wav
+encoded,aac,cz-364_0357_aac.wav,encoded/aac/cz-364_0357_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.992000,79950,wav
+encoded,aac,cz-392_0366_aac.wav,encoded/aac/cz-392_0366_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,5.760000,92238,wav
+encoded,aac,cz-392_0375_aac.wav,encoded/aac/cz-392_0375_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,5.760000,92238,wav
+encoded,aac,cz-392_0384_aac.wav,encoded/aac/cz-392_0384_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.584000,57422,wav
+encoded,aac,cz-448_0421_aac.wav,encoded/aac/cz-448_0421_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,3.584000,57422,wav
+encoded,aac,cz-448_0430_aac.wav,encoded/aac/cz-448_0430_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,6.272000,100430,wav
+encoded,aac,cz-448_0440_aac.wav,encoded/aac/cz-448_0440_aac.wav,pcm_s16le,PCM signed 16-bit little-endian,8000,1,N/A,128000,16,4.736000,75854,wav
+encoded,g711,cz-0194_g711.wav,encoded/g711/cz-0194_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.276875,26308,wav
+encoded,g711,cz-364_0203_g711.wav,encoded/g711/cz-364_0203_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.881750,31146,wav
+encoded,g711,cz-364_0212_g711.wav,encoded/g711/cz-364_0212_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,6.019500,48248,wav
+encoded,g711,cz-364_0221_g711.wav,encoded/g711/cz-364_0221_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.327250,26710,wav
+encoded,g711,cz-364_0230_g711.wav,encoded/g711/cz-364_0230_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.119250,25046,wav
+encoded,g711,cz-364_0239_g711.wav,encoded/g711/cz-364_0239_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,6.127250,49110,wav
+encoded,g711,cz-364_0248_g711.wav,encoded/g711/cz-364_0248_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,2.893125,23238,wav
+encoded,g711,cz-364_0257_g711.wav,encoded/g711/cz-364_0257_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.327250,26710,wav
+encoded,g711,cz-364_0266_g711.wav,encoded/g711/cz-364_0266_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.116000,33020,wav
+encoded,g711,cz-364_0275_g711.wav,encoded/g711/cz-364_0275_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.841000,38820,wav
+encoded,g711,cz-364_0284_g711.wav,encoded/g711/cz-364_0284_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.637500,37192,wav
+encoded,g711,cz-364_0293_g711.wav,encoded/g711/cz-364_0293_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.490000,28012,wav
+encoded,g711,cz-364_0302_g711.wav,encoded/g711/cz-364_0302_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,6.030500,48336,wav
+encoded,g711,cz-364_0311_g711.wav,encoded/g711/cz-364_0311_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.050000,24492,wav
+encoded,g711,cz-364_0320_g711.wav,encoded/g711/cz-364_0320_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.391000,35220,wav
+encoded,g711,cz-364_0329_g711.wav,encoded/g711/cz-364_0329_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,2.842000,22828,wav
+encoded,g711,cz-364_0338_g711.wav,encoded/g711/cz-364_0338_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.600000,28892,wav
+encoded,g711,cz-364_0348_g711.wav,encoded/g711/cz-364_0348_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.127250,25110,wav
+encoded,g711,cz-364_0357_g711.wav,encoded/g711/cz-364_0357_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.944500,39648,wav
+encoded,g711,cz-392_0366_g711.wav,encoded/g711/cz-392_0366_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,5.671000,45460,wav
+encoded,g711,cz-392_0375_g711.wav,encoded/g711/cz-392_0375_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,5.748625,46082,wav
+encoded,g711,cz-392_0384_g711.wav,encoded/g711/cz-392_0384_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.574375,28688,wav
+encoded,g711,cz-448_0421_g711.wav,encoded/g711/cz-448_0421_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,3.567875,28636,wav
+encoded,g711,cz-448_0430_g711.wav,encoded/g711/cz-448_0430_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,6.175250,49494,wav
+encoded,g711,cz-448_0440_g711.wav,encoded/g711/cz-448_0440_g711.wav,pcm_mulaw,PCM mu-law / G.711 mu-law,8000,1,N/A,64000,8,4.707875,37756,wav

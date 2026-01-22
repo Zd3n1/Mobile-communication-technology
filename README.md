@@ -43,3 +43,31 @@ python run_predict.py --mode predict_dir --pretrained_model weights/nisqa.tar --
 //NISQA single file
 
 python run_predict.py --mode predict_file --pretrained_model weights/nisqa.tar --deg "/Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication/output-16-8khz.wav" --output_dir "/Users/zdeni/Mendelu/Navazujici 3/Mobile communication technology/Mobile communication/NISQA results"
+
+
+
+4.12.2025 ---------------- SUBJECTIVE EVALUATION -----------------------
+
+https://github.com/reseval/reseval
+
+slavic group MOS, NISQA
+
+pip install reseval
+
+
+
+------------
+
+
+conda info --envs
+
+conda activate MOS_reseval
+
+
+
+
+submit report
+corelation of subjective to objective metrics
+
+around 200 sounds? different lab 10?
+
